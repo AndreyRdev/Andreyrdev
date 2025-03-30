@@ -10,11 +10,11 @@
 
 ###
 
-<h3 align="left">About Me</h3>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">Eu sou um desenvolvedor front-end <br><br>- 🔭 Estudante<br>- 📚  Estudando Mysql<br>- ⚡ No meu tempo livre gosto de estudar e praticar atividades físicas</p>
+<p align="left">Eu sou um desenvolvedor front-end <br><br>- 🔭 Estudante de Sistema de informação<br>- 📚  Estudando Mysql<br>- ⚡ No meu tempo livre gosto de estudar e praticar atividades físicas</p>
 
 ###
 
@@ -32,12 +32,18 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   Minhas estatísticas :</h3>
 
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AndreyRdev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/AndreyRdev/AndreyRdev/output/snake.svg" alt="Snake animation" />
 
 ###
